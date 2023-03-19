@@ -153,7 +153,7 @@ nav.sticky .menu-btn{
   margin:5px 0;
   color: #FF00A9;
   font-weight: 500;
-  text-shadow: 3px 0 black;
+  text-shadow: 3px 0 white;
 }
 .home .button{
   margin:14px 0;
@@ -282,7 +282,7 @@ section .button button{
   border-radius: 3px;
   font-size: 25px;
   font-weight: 400;
-  background: #00FFD6;
+  background: #FF00A9;
   color: #fff;
   text-shadow: 1px 0 black;
   border:1px solid black;
