@@ -76,7 +76,7 @@ nav .navbar .menu a{
   padding: 0;
   margim: 4px;
   transition: all 0.4s ease;
-  text-shadow: 1px 0 black;
+  text-shadow: 1px 0 white;
   
 }
 .navbar .menu a:hover{
