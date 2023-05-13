@@ -80,10 +80,10 @@ nav .navbar .menu a{
   
 }
 .navbar .menu a:hover{
-  color: #00FFD6;
+  color: #FF00A9;
 }
 nav.sticky .menu a{
-  color: #FF00A9;
+  color: white;
 }
 nav.sticky .menu a:hover{
   color: #00FFD6;
