@@ -72,11 +72,11 @@ nav .navbar .menu a{
   font-size: 19px;
   font-weight: 600;
   font-height: 16px;
-  color: #FF00A9;
+  color: white;
   padding: 0;
   margim: 4px;
   transition: all 0.4s ease;
-  text-shadow: 1px 0 white;
+  text-shadow: 1px 0 black;
   
 }
 .navbar .menu a:hover{
